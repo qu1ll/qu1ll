@@ -10,8 +10,8 @@ Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
 
 ### 📫 Contact
 ---
-*to be added*
-[My Website](elijahbixby.com "My Website)
+*to be added*  
+[My Website](elijahbixby.com "My Website")
 
 
 <!--
