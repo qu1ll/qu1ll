@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, I'm Quill 🪶
+
+I'm an 18 year old developer/cyber specialist based in the United States and I'm passionate in working with and understanding computers.
+
+### 📦 Toolbox
+
+### 📫 Contact
+*to be added*
+
 
 <!--
 **qu1ll/qu1ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
