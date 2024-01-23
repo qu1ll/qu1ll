@@ -1,8 +1,10 @@
 ### Hey, I'm Quill 🪶
-
+---
 I'm an 18 year old developer/cyber specialist based in the United States and I'm passionate in working with and understanding computers.
 
 ### 📦 Toolbox
+---
+
 
 ### 📫 Contact
 *to be added*
