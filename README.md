@@ -1,5 +1,4 @@
 ### Hey, I'm Quill 🪶
----
 I'm an 18 year old developer/cyber specialist based in the United States and I'm passionate in working with and understanding computers.
 
 
@@ -10,6 +9,7 @@ Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
 
 
 ### 📫 Contact
+---
 *to be added*
 [My Website](elijahbixby.com "My Website)
 
