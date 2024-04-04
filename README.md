@@ -10,9 +10,10 @@ I'm an 17 year old developer/cyber specialist based in the United States and I'm
 ---
 - 💻 Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
 - 🔭 Current Projects:
-  1. I am currently working on my Comptia Security+ Certification
-  2. Developing my website
-  3. Couple other unannounced side projects
+1. I am currently working on my Comptia Security+ Certification
+2. Developing my website
+3. File cleaner to clean up and sort downloads folders from unnecessary junk
+4. Couple other unannounced side projects
 
 
 
