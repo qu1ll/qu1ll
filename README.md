@@ -1,17 +1,24 @@
 ### Hey, I'm Quill 🪶
-I'm an 17 year old developer/cyber specialist based in the United States and I'm passionate in working with and understanding computers.
+I'm an 17 year old developer/cyber specialist based in the United States and I'm passionate in working with and making a difference through cybersecurity.
+
+⚡ Some Things About Me:
+- I am passionate about expanding my knowledge and skills as well as improving.
+- Feel free to contact me about ideas and projects to work on!
 
 
 ### 📦 Toolbox
 ---
-Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
+- 💻 Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
+- 🔭 Current Projects:
+  1. I am currently working on my Comptia Security+ Certification
+  2. Developing my website
+  3. Couple other unannounced side projects
 
 
 
 ### 📫 Contact
 ---
-*to be added*  
-[My Website](elijahbixby.com "My Website")
+The main ways to contact me can be found in my [website](elijahbixby.com "qu1ll's Website"). It is a work in progress and I intend for there to be an included list of my projects. I also am looking into starting a blog which will be hosted on my website.
 
 
 <!--
