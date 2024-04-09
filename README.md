@@ -19,7 +19,7 @@ I'm an 17 year old developer/cyber specialist based in the United States and I'm
 
 ### 📫 Contact
 ---
-The main ways to contact me can be found in my [website](elijahbixby.com "qu1ll's Website"). It is a work in progress and I intend for there to be an included list of my projects. I also am looking into starting a blog which will be hosted on my website.
+The main ways to contact me can be found in my [website](https://elijahbixby.com "qu1ll's Website"). It is a work in progress and I intend for there to be an included list of my projects. I also am looking into starting a blog which will be hosted on my website.
 
 
 <!--
