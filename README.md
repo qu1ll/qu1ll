@@ -1,8 +1,9 @@
 ### Hey, I'm Quill 🪶
-I'm an 20 year old developer/cyber specialist based in the United States and I'm passionate in working with and making a difference through cybersecurity.
+I'm a 20 year old developer/cyber specialist based in the United States and I'm passionate in working with and making a difference through cybersecurity and tech.
 
 ⚡ Some Things About Me:
 - I am passionate about expanding my knowledge and skills as well as improving.
+- I currently hold a Comptia Security+ Certification
 - Feel free to contact me about ideas and projects to work on!
 
 
@@ -10,9 +11,7 @@ I'm an 20 year old developer/cyber specialist based in the United States and I'm
 ---
 - 💻 Operating Systems: `Microsoft Windows` `Kali Linux` `Ubuntu Linux`
 - 🔭 Current Projects:
-  - I am currently working on my Comptia Security+ Certification
   - Developing my website
-  - File cleaner to clean up and sort downloads folders from unnecessary junk
   - Couple other unannounced side projects
 
 
