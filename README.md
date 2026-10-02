@@ -3,7 +3,7 @@ I'm a 20 year old developer/cyber specialist based in the United States and I'm 
 
 ⚡ Some Things About Me:
 - I am passionate about expanding my knowledge and skills as well as improving.
-- I currently hold a Comptia Security+ Certification
+- I currently hold the Comptia Security+ Certification
 - Feel free to contact me about ideas and projects to work on!
 
 
